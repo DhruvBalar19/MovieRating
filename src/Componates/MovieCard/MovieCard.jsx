@@ -3,7 +3,7 @@ import dayjs from "dayjs";
 import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 
-import "./style.scss";
+import "./Style.scss";
 import Img from "../LazyLodeImages/Img";
 import CircleRating from "../CircleRating/CircleRating";
 import Genres from "../Genres/Genres";
